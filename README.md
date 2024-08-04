@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 To 
 
 Run npm run build
+Run npm run start
